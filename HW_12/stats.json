@@ -1,0 +1,22 @@
+{
+    "degree": [
+        "twilight sparkle",
+        "rainbow dash",
+        "pinkie pie"
+    ],
+    "weighted_degree": [
+        "twilight sparkle",
+        "rainbow dash",
+        "applejack"
+    ],
+    "closeness": [
+        "twilight sparkle",
+        "rainbow dash",
+        "applejack"
+    ],
+    "betweenness": [
+        "fluttershy",
+        "pinkie pie",
+        "rarity"
+    ]
+}
